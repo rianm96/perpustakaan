@@ -1,0 +1,23 @@
+[
+    {
+        "id_anggota": "123",
+        "nama_anggota": "rian maulana",
+        "jenis_kelamin": "L",
+        "alamat": "ALAMAT",
+        "status": "1"
+    },
+    {
+        "id_anggota": "1",
+        "nama_anggota": "ihksan ",
+        "jenis_kelamin": "L",
+        "alamat": "banda aceh",
+        "status": "1"
+    },
+    {
+        "id_anggota": "3",
+        "nama_anggota": "hamdan",
+        "jenis_kelamin": "L",
+        "alamat": "jakarta",
+        "status": "1"
+    }
+]
